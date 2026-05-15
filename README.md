@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-henrique-gardino-villa-real-ramos-6a636740a/)
 
 
-## Tecnologias que uso no meu dia
+## Linguagens que estou estudando
 
 <div style="display: inline_block"><br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
