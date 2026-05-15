@@ -1,4 +1,4 @@
-### Opa, tudo certo? Alexandre Henrique Gardino Villa Real Ramos
+### Opa, tudo certo? sou Alexandre Henrique Gardino Villa Real Ramos, mais conhecido como Alex
 
 - Estudando C, Banco de Dados e iniciei um curso de Java
 
